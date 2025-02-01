@@ -67,7 +67,9 @@ python3 -m venv --without-pip discord
 ```
 
 
-```source discord/bin/activate```
+```
+source discord/bin/activate
+```
 
 
 ```
