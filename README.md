@@ -47,7 +47,9 @@ Find javascript console, and paste code below:
 ```
 
 
-```git clone https://github.com/portesdolorres/discord-autochat1.git```
+```
+git clone https://github.com/portesdolorres/discord-autochat1.git
+```
 
 
 ```cd discord-autochat1```
