@@ -48,12 +48,31 @@ Find javascript console, and paste code below:
 
 
 ```git clone https://github.com/portesdolorres/discord-autochat1.git```
+
+
 ```cd discord-autochat1```
+
+
 ```git install python3-venv```
+
+
 ```git install python3-pip```
-```python3 -m venv discord```
+
+
+```python3 -m venv --without-pip discord```
+
+
 ```source discord/bin/activate```
+
+
+```curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py```
+
+```python get-pip.py```
+
+
 ```pip install -r requirements.txt```
+
+
 ```nano .env```
 
 # HOW TO GET GEMINI API :
